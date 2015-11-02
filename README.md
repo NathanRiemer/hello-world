@@ -1,2 +1,2 @@
 # hello-world
-i am now yesting out git stuff!! woo
+i am now testing out git stuff!! woohoo
